@@ -1,0 +1,2 @@
+This is a sample text with open method!
+This is a line 2 of sample text with open method!
